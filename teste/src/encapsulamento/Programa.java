@@ -1,4 +1,4 @@
-package emcapsulamento;
+package encapsulamento;
 
 public class Programa {
 
